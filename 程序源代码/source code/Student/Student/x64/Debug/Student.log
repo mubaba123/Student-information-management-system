@@ -1,0 +1,17 @@
+﻿  KeyDown.c
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\MyList.h(5,24): warning C4091: “typedef ”: 没有声明变量时忽略“_Student”的左侧
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\MyList.h(6,21): warning C4091: “typedef ”: 没有声明变量时忽略“_Node”的左侧
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\KeyDown.c(43,14): warning C4013: “ReadStudent”未定义；假设外部返回 int
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\KeyDown.c(57,14): warning C4013: “FindStudent”未定义；假设外部返回 int
+  main.c
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\MyList.h(5,24): warning C4091: “typedef ”: 没有声明变量时忽略“_Student”的左侧
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\MyList.h(6,21): warning C4091: “typedef ”: 没有声明变量时忽略“_Node”的左侧
+  Menu.c
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\Menu.c(41,28): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\Menu.c(41,28): message : 请考虑在格式字符串中使用“%zd”
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\Menu.c(48,20): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\Menu.c(48,20): message : 请考虑在格式字符串中使用“%zd”
+  MyList.c
+D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\Student\MyList.c(276,10): warning C4476: "printf": 格式说明符中的类型字段字符“\xe2”未知
+  正在生成代码...
+  Student.vcxproj -> D:\学习\学校课设啥的\学生信息管理系统\学生信息管理系统\学生信息管理系统\程序源代码\source code\Student\x64\Debug\Student.exe
